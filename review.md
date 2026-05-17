@@ -158,8 +158,8 @@ a New Era of Artificial Intelligence, February 2026)`
 
 ### Questions
 
-- [x] Is AI a villain?
-- [x] or a saint?
+- [] Is AI a villain?
+- [] or a saint?
 
 I believe you get the idea - there are many reasoned ideas out there, but even more opinions. As for myself, I have no
 interest whatsoever in opinions. They muddy the waters and distract from the serious issues. It reminds me of something
