@@ -8,213 +8,97 @@
 >
 > --- {abbr}`Inga Strümke (In, *Machines that Think*, p37)`
 
-## Preamble (under construction)
 
-One has to be completely ignorant to be unaware of the debate raging about {abbr}`AI (Artificial Inteliigence)` and how 
-it is about to transform our 
-societies. It doesn't help that the big-tech leaders and researchers have wide-ranging opinions, even among themselves.
-Here is a random selection:
+## Setting the Scene.
+
+{abbr}`LLMs (Large Language Models)` have become immensely powerful. So much so that people *say* '{abbr}`AI (Artificial Intelligence)`' but *think* {abbr}`LLMs (Large Language Models`. This is natural given how central communication is to the human condition. Humans depend on verbal, on written, and even more abstract forms of communication such as, poetry, music, painting, sculpture.  {abbr}`LLMs (Large Language Models` might only be a part of {abbr}`AI (Artificial Intelligence)` but it is a big part.
+
+In just a few short years {abbr}`LLMs (Large Language Models` have upended society. I want to point out just a few more recent developments, in no particular order. I'll return to them later on in the review. Let's start with the perhaps, the most obvious.
+
+### Jobs
+
+The debate is not so much about whether {abbr}`AI (Artificial Intelligence)` *is* disrupting the job market, as about which sectors are being hit the hardest and what the future holds for humans. Some industry leaders feel that humans may become redundant, others sound a more cautionary note. But there is no doubt that the landscape is changing,
+
+> *It starts at the bottom, and it keeps going up, ... And I don’t know where it stops.*
+>
+>--- {abbr}`Umesh Ramakrishnan chief strategy officer at Kingley Gate (quoted by Lisa Eadicicco in CNN Business, 10 May, 2026)` 
+
+There is no doubt that some sectors will be hit harder than others, 
+
+> *According to one Stanford study, in the occupations most susceptible to greater automation, such as software engineering or customer service, 
+> entry-level employment has already declined by 16 percent relative to the least-exposed roles.*
+>
+>--- {abbr}`David M. Soloman, Chairman and Chief Executive of Goldman Sachs (New York Times, 22 May, 2026)`
+
+The idea is that {abbr}`AI (Artificial Intelligence)` will create more jobs than what it destroys, or that people will find more productive ways to spend their time. According to ,
+
+> *People are going to be more productive, they will have more time for leisure.*
+>
+>--- {abbr}`Sundar Pichai, CEO Google (in New York Times, 22 May, 2026)`
+
+It this realistic, will people have more leisure time? By *leisure time* I don't mean *out of a job*, that is something else. I mean more leisure time from your job because the latest technology makes you more productive. I question the validity of this argument. It seems more likely that expectations will also increase. Increased productivity means greater profit and that is hard to resist. It is perhaps worth quoting the experience of Siddhant Khare at length, 
+
+> *AI genuinely makes individual tasks faster. That's not a lie. What used to take me 3 hours now takes 45 minutes. Drafting a design doc, scaffolding a new service, writing test cases, 
+> researching an unfamiliar API. All faster.
+>
+> But my days got harder. Not easier. Harder.
+>
+> The reason is simple once you see it, but it took me months to figure out. When each task takes less time, you don't do fewer tasks. You do more tasks. Your capacity appears to expand, 
+> so the work expands to fill it. And then some. Your manager sees you shipping faster, so the expectations adjust. You see yourself shipping faster, so your own expectations adjust. The baseline moves.
+>
+> Before AI, I might spend a full day on one design problem. I'd sketch on paper, think in the shower, go for a walk, come back with clarity. The pace was slow but the cognitive load was manageable. One problem. One day. 
+> Deep focus.*
+>
+> Now? I might touch six different problems in a day. Each one "only takes an hour with AI." But context-switching between six problems is brutally expensive for the human brain. The AI doesn't get tired between problems. 
+> I do.*
+> 
+>--- [Siddhant Khare on 8 February, 2026](https://siddhantkhare.com/writing/ai-fatigue-is-real)
 
 
+### Mental Health
+As far back as 2017 tech leaders expressed concern about the effect of technology on the human mind. 
+
+> *[Tech] companies began with a goal of connecting the world. But once they put a business model in place that depended on advertising, they had to put in techniques that depended on creating addiction.
+> Then when the smart phone came along, it created an opportunity to create a level of brain hacking that had never previously been seen.
+>
+> We hardened our financial institutions against hacking ... but it never occurred to us that the minds of our voters could be hacked; they turned our tools against us.*
+>
+> --- {abbr}`Roger McNamee, Managing Director of the Venture Capital Firm Elevation Partners (in IEEE Spectrum, 14 November, 2017.)`
+
+*Brain hacking* is of course nothing new. In *Influence: The Psychology of Persuasion*, for example, Robert Cialdini describes how sales people hijack our natural and necessary psychological instincts to cnvince us to do stuff that we would not normally do. What is different now, is the scale and precision with which individuals are targeted. To devastating effect, as the widescale interference in the 2016 US election testifies.
+
+
+
+### Big Tech
+Big tech has become truly gigantic with no end in sight. The present economic growth in the US is largely driven by big tech and specifically {abbr}`AI (Artificial Intelligence)` companies. With their companies behind them, the tech leaders have become monstrously influential and ego-driven. Their decisions have planet-wide influence, and are not always, perhaps rarely, in the best human interest. We are starting to see push-back, from resistance to develop new data centers, to the booing of commencement speakers when they mention {abbr}`AI (Artificial Intelligence)`, to Pope LeoXIV's encyclical, [Magnifica Humanitas](https://uscatholic.org/articles/202605/10-quotes-from-pope-leo-xivs-first-encyclical-magnifica-humanitas/). Perhaps one can add the [EU AI Act of 2024](https://www.gdprsummary.com/gdpr-summary/?gad_source=1&gad_campaignid=11173866929&gbraid=0AAAAADR7W4VuBMDr-Pyt7gW5zasDy4PD6&gclid=CjwKCAjwhqfPBhBWEiwAZo196rOS8qfe2P05G1oSu5vhXlMuutNc2vvAxXFUvwgD-Wk3K-pNnIBDCxoCEpYQAvD_BwE) and the [General Data Protection Regulation]((https://www.gdprsummary.com/gdpr-summary/?gad_source=1&gad_campaignid=11173866929&gbraid=0AAAAADR7W4VuBMDr-Pyt7gW5zasDy4PD6&gclid=CjwKCAjwhqfPBhBWEiwAZo196rOS8qfe2P05G1oSu5vhXlMuutNc2vvAxXFUvwgD-Wk3K-pNnIBDCxoCEpYQAvD_BwE)), aiming to place limits on the use of {abbr}`AI (Artificial Intelligence)` and safeguarding the privacy of individuals.
+
+It is noteworthy that the US is finding it extraordinally difficult to come up with similar legislation, and then there are autocratic countries where the public enjoy no protection whatsoever.
+
+
+### AI as a Mathematician
+Quite recently OpenAI created quite a stir when on of their {abbr}`AI (Artificial Intelligence)` models solved an open mathematics problem that researchers have been looking at for many years. For some, this is an indications the the dream of {abbr}`AGI (Artificial General Intelligence)` is within reach, or has arrived. I'll try to unpack what is a truelly impressive achievement. First a little background.
+
+The Hungarian mathematician Paul Erd$\H{o}$s
+
+
+
+### Wrapping up
+The point is, we all have a stake in the present and future developments of {abbr}`AI (Artificial Intelligence)` and a wide discussion is undoubtedly the way to go. 
 
 :::{pull-quote}
-Artificial intelligence can be wondrous, but the technology underneath is more than a little monstrous. 
->
->--- {abbr}`Paul Ford (The New York Times, 26 April 2026.)`
-:::
+*As long as we avoid these discussions and fail to make deliberate decisions, these decisions will either be made by leaders of tech companies, or they won't be made at all. I don't know which is worse.*
 
-:::{note} Full quote
-:class: dropdown
-> *Artificial intelligence can be wondrous, but the technology
-> underneath is more than a little monstrous. It eats up all the words
-> in the world, from blogs to books, often without permission. It
-> burns whole forests’ worth of energy, digesting that raw material
-> into its models, and gulps billions of gallons of water to cool
-> down.*
->
-> --- {abbr}`Paul Ford (The New York Times, 26 April 2026.)`
-:::
-
-:::{pull-quote}
-the Anthropic chief “knows absolutely nothing about the effects 
-of technological revolutions on the labour market"
->
-> --- {abbr}`Yann LeCun (Quoted in Business Today, 19 April 2026)`
-:::
-
-:::{note} Full quote
-:class: dropdown
-> *Yann LeCun, former chief scientist at Meta Platforms’s AI division,
-> has criticised Dario Amodei for warning that artificial intelligence
-> (AI) could eliminate up to half of all tech jobs.*
->
->
-> *Responding to Amodei’s earlier remarks, LeCun said the Anthropic
-> chief “knows absolutely nothing about the effects of technological
-> revolutions on the labour market,” adding that even AI leaders are
-> not qualified to predict employment outcomes.*
->
-> --- {abbr}`Yann LeCun (Quoted in Business Today, 19 April 2026)`
-:::
-
-:::{pull-quote}
-When AI is everywhere, what knowledge, skills, and habits will students need to get ahead?
->
-> --- {abbr}`Ben Wildavsky (In Washington Monthly, April 15, 2026)`
-:::
-
-:::{note} Full quote
-:class: dropdown
-> *When AI is everywhere, what knowledge, skills, and habits will
-> students need to get ahead? How can graduates be thoughtful,
-> effective, purposeful users of this technology, benefitting from its
-> value rather than becoming its casualties?*
->
-> --- {abbr}`Ben Wildavsky (In Washington Monthly, April 15, 2026)`
-:::
-
-:::{pull-quote}
-There’s still that to build, and I think that would be one of the most consequential 
-inventions humanity will ever invent.
-> --- {abbr}`Demis Hassabis (From, Interview with the 2024 chemistry laureate Demis Hassabis, recorded on
-6 December 2024 during Nobel Week in Stockholm, Sweden.)`
-:::
-
-:::{note} Full quote
-:class: dropdown
-> *My original ambition in AI is to build what we sometimes call
-> artificial general intelligence, which is a system that can exhibit
-> all the cognitive capabilities that humans can. Then we know we have
-> a truly general system at that point, a kind of Turing
-> machine. There’s still that to build, and I think that would be one
-> of the most consequential inventions humanity will ever invent. I
-> guess that was my original goal when I got into AI, 30 plus years
-> ago and that’s still my goal now. We still have a lot of work to do
-> to get there.*
->
-> --- {abbr}`Demis Hassabis (From, Interview with the 2024 chemistry laureate Demis Hassabis, recorded on
-6 December 2024 during Nobel Week in Stockholm, Sweden.)`
+--- {abbr}`Inga Strümke (Machines that think)`
 :::
 
 :::{pull-quote}
-... it can be used for good, which of course, ... but it can also be repurposed by bad actors for harmful ends. 
->
->--- {abbr}`Demis Hassabis (From, Interview with the 2024 chemistry laureate Demis Hassabis, recorded on
-6 December 2024 during Nobel Week in Stockholm, Sweden.)`
+*...is has essentially become your civic duty to know something about {abbr}`AI (Artificial Intelligence)`*
+
+--- {abbr}`Keith L. Downing (Forward to *Machines that Think*)`
 :::
 
-:::{note} Full quote
-:class: dropdown
-> *I think there are two concerns on AI for me. One is, these are
-> general purpose systems and, like any powerful general purpose
-> technology, it can be used for good, which of course, things like
-> medicine and climate and help us with some of humanity’s greatest
-> challenges, but it can also be repurposed by bad actors for
-> harmfulends. Thetechnology itself is kind of neutral. It depends on
-> how we as scientists and humanity and society decide are going to
-> use it and deploy it. I worry about the bad actors and how they may
-> access the same technologies for harmful ends. So that’s one
-> thing. The second thing is, as the systems become more and more
-> powerful themselves, more autonomous, more agent like, can we
-> understand and keep control of those systems, make sure they have
-> the right goals and values and how do we ensure that the guardrails
-> around how those systems work are robust enough?*
->
-> --- {abbr}`Demis Hassabis (From, Interview with the 2024 chemistry laureate Demis Hassabis, recorded on
-6 December 2024 during Nobel Week in Stockholm, Sweden.)`
-:::
-
-:::{pull-quote}
-The United States is at a pivotal moment.
->
-> --- {abbr}`SIAM AI Task Force Report (The Role of Applied Mathematics in
-a New Era of Artificial Intelligence, February 2026)`
-:::
-
-:::{note} Full quote
-:class: dropdown
-> *The United States is at a pivotal moment. Multi-billion-dollar
-> federal AI investments, rapid commercial deployment, and
-> university-wide AI initiatives are collectively setting the
-> trajectory of the nation’s scientific, economic, and security
-> landscape for decades to come.*
->
-> *At the same time: AI systems are being deployed faster than our
-> ability to understand, verify, certify, or govern them.  Federal
-> agencies are launching large-scale AI programs with expectations for
-> near-term impact, often without proportional investment in
-> mathematical foundations needed to understand, evaluate and
-> systematically improve AI systems. Universities are shifting hiring,
-> curricula, and research infrastructure around AI, often without
-> commensurate investment in applied mathematics, with lasting
-> workforce consequences.  Global industrial leadership is shifting
-> from those with the most data to those with the mathematical insight
-> to transform raw AI potential into reliable, efficient, scalable,
-> and sovereign economic power.*
->
-> --- {abbr}`SIAM AI Task Force Report (The Role of Applied Mathematics in
-a New Era of Artificial Intelligence, February 2026)`
-:::
-
-### Questions
-
-- [] Is AI a villain?
-- [] or a saint?
-
-I believe you get the idea - there are many reasoned ideas out there, but even more opinions. As for myself, I have no
-interest whatsoever in opinions. They muddy the waters and distract from the serious issues. It reminds me of something
-Tim Minchun once said:
-
-> *Be hard on your opinions. We must hink critically and not just about
-> the ideas of others, be hard on your believes, take them out onto
-> the verandah and hit them with a cricket bat. Be intellectually
-> rigorous, identify your biases, your prejudices, your priviledges.*
->
->--- {abbr}`Tim Minchin ("9 Life Lessons" speech delivered to graduates at the University of Western Australia.)` 
-
-Of course this applies to me as well.
-
-But, if the opinions are from tech leaders, they are consequencial. Some of these leaders are incredibly successfull
-and highly influential. Their opinions are consequential. What should our responce be as members of societies with value 
-systems that we hold dear? Doing nothing, risks being overwhelmed by a tsunami of sorts. And if we think a tsunami is
-not all good, how do we stop it? Or rather, direct it in a direction of our choosing where it can do the most good. 
-Even if it is hard to direct a tsunami, it is important to realise that we ordinary people collectively have enormous
-power. Quoting Demis Hassibis again,
-
-> *Human intelligence always astounds me, and I don’t think we think
-> about this enough. It’s created modern civilisation around
-> us. Sometimes when I’m flying over to the US for a business trip or
-> something on a 747, I sometimes look out the window and think, “how
-> have we as humanity manage this with our sort of primate brains?” It
-> seems incredible to me, and I don’t think people stop and think how
-> magical that really is. So really the power of intelligence, human
-> intelligence, has created the wonders of modern civilisation.*
->
-> --- {abbr}`Demis Hassabis (From, Interview with the 2024 chemistry laureate Demis Hassabis, recorded on
-6 December 2024 during Nobel Week in Stockholm, Sweden.)`
 
 
-:::{pull-quote}
-We must never surrender our intellectual autonomy.
-:::
+The more informed the discussion the better the chances that something good will come from it. Strümke is a reliable and enthusiastic guide through what is often a maze of conflicting opinions. She is enthusiastic about {abbr}`AI (Artificial Intelligence)` can offer, and has offered already, and she is sceptical when she must. Her technical expertise and research field can be described as a {abbr}`AI (Artificial Intelligence)` forensics. The technical term is {abbr}`XAI (Explainable Artificial Intelligence)`. Her passion is to dissect the internals of the large models to figure out what it is that they actually learn. This is crucial to understand where things can go wrong, but also so that we can learn from their learning. I'll return to this topic.
 
-The thing is, we as humans have amazing intelligence with almost
-unlimited potential. We might even be able to build machines smarter
-than ourselves! We must never surrender our intillectual autonomy. But
-the question remains, how do we respond to the AI revolution? One
-answer is to use our wondrous intellect to equip ourselves to
-participate in a wide, informed debate of where we want to go, and how
-to get there. _Machines that Think_ is an attempt to provide some of
-that equipment.
 
-With {abbr}`MtT (Machines that Think)` Inga managed to write a book
-that is both informative and entertaining. She writes in a lively,
-engaging style and her passion for AI shines through the whole
-book. Most of her explanations of technical issues are brilliant. Yes,
-she does not shy away from technicalities when it is necessary to
-follow the broader argument. One exception is her discussion of
-Godel's incompleteness theorem [@nagel1958godel] which I found
-pretty hard going.  For the intrepid who wants to know more, Natalie
-Wolchover provides [an accessible
-overview](https://www.quantamagazine.org/how-godels-proof-works-20200714/),
-based on [@nagel1958godel].
