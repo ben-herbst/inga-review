@@ -272,11 +272,27 @@ that we can learn from their learning. I'll return to this topic.
 ## Machines that Think
 @strumke2026 
 
+:::{note}
+Incomplete
+:::
+
 ### A short history
+
+:::{note}
+Incomplete
+:::
 
 ### Data
 
+:::{note}
+Incomplete
+:::
+
 ### The models
+
+:::{note}
+Incomplete
+:::
 
 ### Ethics
 
@@ -309,7 +325,9 @@ model my, without our awareness, introduce say, gender, bias.
 
 I want to go in a different direction.
 
-
+:::{note}
+To be continued
+:::
 
 
 
@@ -317,3 +335,7 @@ I want to go in a different direction.
 
 
 ### A peek into the future
+
+:::{note}
+Incomplete
+:::
