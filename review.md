@@ -1,18 +1,21 @@
 # Review: Machines that Think by Inga Strümke 🇳🇴
 
-> *I believe that basic knowledge about artificial intelligence will
+> I believe that basic knowledge about artificial intelligence will
 > quickly become crucial for understanding much of what is happening
 > in our lives and for being able to actively participate in the
 > public debate about how we want this technology to influence our
-> society.*
+> society.
 >
-> --- {abbr}`Inga Strümke (In, *Machines that Think*, p37)`
+> --- {abbr}`Inga Strümke (In, Machines that Think, p37)`
 
 :::{warning}
 What started as a traditional review of Inga's book, quickly morphed into something rather different. Perhaps because 
 the sign of any good book is to make you think, this one started me thinking. Or perhaps I can't resist her invitation 
 to take part in the AI debate. Whatever the case may be, this review has much more of myself than is healty for any one.
 I make no apologies! If I can join the debate, so should you.
+
+If you want to ignore what I have to say and only read what the book is about, feel free to jump directly to the subsection
+ *Review of Machines that Think* below.
 :::
 
 
@@ -38,13 +41,13 @@ harder than others with junior software developers particularly vulnerable. How 
 developer without first being a junior developer[^a2]?
 
 [^a1]: See, for example the following quote,
-	> *It starts at the bottom, and it keeps going up, ... And I don’t know where it stops.*
+	> It starts at the bottom, and it keeps going up, ... And I don’t know where it stops.
 	>
 	>--- {abbr}`Umesh Ramakrishnan chief strategy officer at Kingley Gate (quoted by Lisa Eadicicco in CNN Business, 10 May, 2026)` 
 
 [^a2]: 
-	> *According to one Stanford study, in the occupations most susceptible to greater automation, such as software engineering or customer service, 
-	> entry-level employment has already declined by 16 percent relative to the least-exposed roles.*
+	> According to one Stanford study, in the occupations most susceptible to greater automation, such as software engineering or customer service, 
+	> entry-level employment has already declined by 16 percent relative to the least-exposed roles.
 	>
 	>--- {abbr}`David M. Soloman, Chairman and Chief Executive of Goldman Sachs (New York Times, 22 May, 2026)`
 
@@ -52,7 +55,7 @@ The idea is that {abbr}`AI (Artificial Intelligence)` will create more jobs than
 find more productive ways to spend their time[^a3].
 
 [^a3]:
-	> *People are going to be more productive, they will have more time for leisure.*
+	> People are going to be more productive, they will have more time for leisure.
 	>
 	>--- {abbr}`Sundar Pichai, CEO Google (in New York Times, 22 May, 2026)`
 
@@ -95,13 +98,13 @@ us that the minds of our voters could be hacked; they turned our tools against u
 :::
 
 [^a5]:
-	> *[Tech] companies began with a goal of connecting the world. But once they put a business model in place that 
+	> [Tech] companies began with a goal of connecting the world. But once they put a business model in place that 
 	>depended on advertising, they had to put in techniques that depended on creating addiction.
 	> Then when the smartphone came along, it created an opportunity to create a level of brain hacking that had never 
 	> previously been seen.
 	>
 	> We hardened our financial institutions against hacking ... but it never occurred to us that the minds of our 
-	> voters could be hacked; they turned our tools against us.*
+	> voters could be hacked; they turned our tools against us.
 	>
 	> --- {abbr}`Roger McNamee, Managing Director of the Venture Capital Firm Elevation Partners (in IEEE Spectrum, 14 November, 2017.)`
 
@@ -261,38 +264,46 @@ to be uninformed (perhaps not all tech leaders are equally knowledgable about di
 help returning to the "silo-ed" effect mentioned by Daniel Litt above). 
 
 Having that off my chest, it is important to enter any discussion as informed as possible -- the more informed the
-discussion the better the chances that something good will come from it. Strümke is a reliable and enthusiastic guide
-through what is often a maze of conflicting opinions. She is enthusiastic about {abbr}`AI (Artificial Intelligence)` 
-can offer, and has offered already, and she is sceptical when she must. Her technical expertise and research field can
-be described as a {abbr}`AI (Artificial Intelligence)` forensics. The technical term is 
-{abbr}`XAI (Explainable Artificial Intelligence)`. Her passion is to dissect the internals of the large models to
-figure out what it is that they actually learn. This is crucial to understand where things can go wrong, but also so
-that we can learn from their learning. I'll return to this topic.
+discussion the better the chances that something good will come from it.
 
-## Machines that Think
-@strumke2026 
+## Review
+
+In her book, *Machines that Think* Inga takes you, the reader, on a fascinating journey through the weird and wonderful world of AI.
+She is not only pointing out the highlights but give you a peek behind the scenes. You will learn how the AI developers think about what they are doing,
+what are the issues any developer must considered when developing and applying AI models. As a highly respected, active researcher she is a reliable guide she
+is a reliable and enthusiastic guide through what is often a maze of conflicting opinions. She is enthusiastic about {abbr}`AI (Artificial Intelligence)` 
+can offer, and has offered already, and is cautious when she must. 
+
+One of the things many people will find surprising, even a little frightening, is that no one knows exactly how these complex models with their billions if not trillions of parameters, 'think'. We know in principle how the models are trained but it is much harder to know what design choices the developers inside the tech companies make. Few of the models are open sourced that will allow one to inspect the details. But the deeper reason is that machines and humans operate on very different principles[^a12]. The models are not designed to be human interpretable. If we do not understand how they 'think' it is much harder to anticipate how they 
+will perform in challenging environments. What is the risk of unknow consequences.
+
+[^a12]: Of course, statements like these are controversial. Some, like Geoffrey Hinton argues that the models are already conscious. (What are the implications if we accept this?) For me, Neil Lawrence (@lawrence2024) makes a strong case for differences between machine and human intelligence. 
+
+Fortunately for the rest of us there are researchers like Inga who is researching this exact problem. This research field, known as {abbr}`XAI (Explainable Artificial Intelligence)` can succintly be described as {abbr}`AI (Artificial Intelligence)` forensics.  In this field, researchers dissect the internals of the large models to
+figure out what it is that they actually learn. As mentioned above, this is crucial to understand where things can possibly go wrong, but is also crucial for learning from the models' learning. 
+
+Although a book of about 250 pages, it is rich in information and deep in scope. You will learn about the technicalities behind the models - but don't despair, you will be carefully guided with brillaint explanations - but also what it means for us as individuals, for societies and even the broader impact on humanity. 
+
+One of the constant themes throughout the book, is her emphasis of the role of *society* as a moderating influence on the future direction of AI. I'll discuss this fundamental issue in more detail, later. The emphasis on the importance of society and *civic duty* I referred to above, is, unfortunately, far from a universal value. Yet, the prevailing societal values determine to a large extent the path to the future, good or bad. AI therefore forces us to re-examine our basic values, as individuals, as societies
+
+>Among the most fascinating aspects of articial intelligence as technology is how it forces us to contemplate difficult ethical dilemmas.
+>
+>--- {abbr}`Inge Strümke. (Machines that Think, p166.)` 
+
+Let's get into specifics.
+
+### History
+
+
+
 
 :::{note}
-Incomplete
+To be continued
 :::
 
-### A short history
 
-:::{note}
-Incomplete
-:::
+## A Deep Dive into Selected Topics.
 
-### Data
-
-:::{note}
-Incomplete
-:::
-
-### The models
-
-:::{note}
-Incomplete
-:::
 
 ### Ethics
 
