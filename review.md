@@ -1,5 +1,52 @@
 # Review: Machines that Think by Inga Strümke 🇳🇴
 
+
+> Humankind stands at a redical inflection point in its history. Almost everyone agrees that this is so, and unlike some widely held views, it is true. The future is
+> a chaos of uncertainties. There are some who would go further and say that numanity stands not just at an inflection-point, but at its final point, at the verge of > > self-destruction.
+
+With these words A.C. Grayling (@grayling2026) captures the apprehension and expectation of an {abbr}`AI (Artificial Intelligence)`, or more broadly, a technological  future. What can we expect, is it possible to peek into the future? And if we don't like what we see, how much control should we, indeed, can we, exercise to determine 
+an outcome that is worth living for? 
+
+My own viewpoint is that no future is inevitable. Timothy Snyders has argued persuasively how inevitabilty leads to its destructive counterpoint, eternity - in this case the tyranny of technology. However frightening uncertain the future may seem, we have to "look worst-case scenarios squarely in the face, [otherwise] we will not prepare ourselves sufficiently to avoid or mitigate the worst that tomorrow can bring" [^a1]. Grayling offers comfort,
+
+> two things encourage us to think that we could survive the changes rushing at us, not least from the new technologies that, in the bewildering rapidity of their development, are currently making the future deeply, and in a number of ways threateningly, unreadable.
+>
+> The first encouragment is that we are not without agency or a modicum of rationality, and could if we robust direct these unnervingly rapid changes in ways that 
+> reduce their dangers and leverage the benefits they also promise.
+>
+> The second is that to live without hope of survival is impossible; indeed, to hope for something better than mere survival is a necessity: hope is life, 
+> and life is the business of working to make hope come true.
+
+[^a1]: See @grayling2026. 
+
+Even if there is an existensial tension between hope an despair, we cannot abandon hope. We also cannot reset the clock, so to speak, return to a crossroads where we can try the other turn. Nor do we want to. Not everything from the past is worth preserving, not everything should be consigned to the rubbish bin. The question becomes, what do we want our futures (plural, there cannot be a single, universal ideal) to look like? How do we come to a broad concensus about our values and expectations, and how do we go about realising it?
+
+Perhaps we operate behind John Rawls's "veil of ignorance", where none of us can be sure about our status in the new society, where our present expertise is no longer
+needed or appreciated. But every single person would want to have the best life possible. Us humans have at least a "modicum of rationality" and to abandon hope is to abandon life. It is in our power to preserve our agency, to resist surrendering our autonomy to the seductive power of modern technology.
+
+Make no mistake, modern technology is powerful and powerfully addictive. Having lived from the times when the the calculations for physics experiments were done with 
+log books and sliderules, when we had to connect through an operator ("number pleas!"), when bank reconds were analogue (your balance was entered by hand into the paper bank records with your personal bank book as backup), to pocket calculators (how proud we were of our HP calculators with its Reverse Polish Notation, how convenient!), to mainframes, the first PC's, the internet, smart phones, and LLM's. There is no question that the present AI agents make life in many respects a lot easier and companies more productive.  Although one of last hold-outs, even I am using Claude on a daily basis to implement software solutions. This is where it becomes irresistably seductive: It is all too easy to ask Claude to implement a specific functionality, after which if will go away to think ("think"?!). After a few times asking for your approval (mechanically given, it might tell you that it now understands ("understands"?!) the problem well enough to come up with a solution that you will then, mechanically, approve. If you prompt your agent in the right way, it may even politely inform you that in the course of its own investigation it came up with the following inconsistencies or even straightout bugs. And, again very politely, offer to fix it for you if you like. A far cry from log books and sliderules! And yes, I was there and has no desire in the least to go back to the bad old times.
+
+
+What is there not to like about such a clever and polite assistant and how easy to be seduced into thinking that it knows everything and is infinitely wise (on top of being really, really clever), that mechanically accepting its suggestions will always turn out to be allright.
+
+Most of what I do is quite straightforward and it takes only a little effort to go carefully through the code and check for correctness. Also, I try and work in areas where I understand the fundamental principles even if not alwys the precise details. In short, I'm working on problems with solutions that I know how to implement, with more or less effort. This helps me to guide the agent step-by-step through the process and makes it relatively straightforward to check the result. But I can also envisage situations where the problem becomes so complicated that the result will be hard, if not impossible to check and I'll be tempted to totally rely on the provided solution.
+
+My whole career has been about understanding myself; I see no point in a situation where only the agent truly understands, or believes to understand, the problem. I can also easily envisage a situation where the effort of trying to understand will be too hard, too unproductive, too not worth the effort. Where we leave everything to the agent and spend our (forced) leisure time on social platforms. Where is the fun in that?
+
+
+I hope I was successful in convincing you the reader that it is a jungle out there, one where anyone can get lost. No single person can be the ultimate guide out of the jungle. I would therefore suggest, join the debate, have as many informed discussions as possible, and do not loose sight that we have agency, that we have or should have ultimate control over our minds.
+
+> ... people stop relying on their own judgment. They surrender to whoever speaks with the most confidence, the most consistency, 
+> the most certainty. They choose the story that explains everything, because the alternative—that the world is complex and they
+> have to think carefully—is too exhausting.
+>
+> --- {abbr}`Hannah Arendt (Author of, The Origins of Totaliarism. Facebook. )`
+
+Having that off my chest, you can now sigh with relief as I'm finally ready to start with the actual reason for this essay, namely to give you an inkling what 
+*Machines that Think* is all about. 
+
+
 > I believe that basic knowledge about artificial intelligence will
 > quickly become crucial for understanding much of what is happening
 > in our lives and for being able to actively participate in the
@@ -8,16 +55,7 @@
 >
 > --- {abbr}`Inga Strümke (In, Machines that Think, p37)`
 
-:::{warning}
-What started as a traditional review of Inga's book, quickly morphed into something rather different. Perhaps because 
-the sign of any good book is to make you think, this one started me thinking. Or perhaps I can't resist her invitation 
-to take part in the AI debate. Whatever the case may be, this review has much more of myself than is healty for any one.
-I make no apologies! If I can join the debate, so should you.
-
-If you want to ignore what I have to say and only read what the book is about, feel free to jump directly to the subsection
- *Review of Machines that Think* below.
-:::
-
+In short, Inga sets out to provide this basic knowledge so that you can join the debate.
 
 ## Setting the Scene.
 
