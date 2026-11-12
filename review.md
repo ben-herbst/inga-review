@@ -1,3 +1,25 @@
+---
+abstract: |
+  A.C. Grayling describes humankind at a radical inflection point, facing a
+  future that is a chaos of uncertainties. The response taken here is that no
+  future is inevitable: Timothy Snyder has shown how a belief in inevitability
+  collapses into its counterpoint, eternity — here the tyranny of technology —
+  and that we retain both agency and a modicum of rationality. The question is
+  not what the future holds but what we want our futures, plural, to look
+  like, and whether we can reach a consensus on the values behind them.
+
+  Against that backdrop this is a review of Inga Strümke's *Machines that
+  Think*, a guide through how AI developers think and what they must weigh.
+  It takes up the fact that nobody knows precisely how models of billions of
+  parameters arrive at their outputs, the explainable-AI research that treats
+  the problem as a kind of forensics, and the consequences for jobs, mental
+  health, Big Tech, mathematics and ethics.
+
+  Written by someone who worked from log books and slide rules to LLMs, and
+  who now uses an AI agent daily while remaining wary of how seductive that
+  convenience is.
+---
+
 # Review: Machines that Think by Inga Strümke 🇳🇴
 
 
